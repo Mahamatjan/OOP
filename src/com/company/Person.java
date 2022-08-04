@@ -1,3 +1,7 @@
+package com.company;
+
+import com.company.Laptop;
+
 public class Person {
     public String name;
     public double weight;
@@ -7,7 +11,7 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Person{" +
+        return "com.company.Person{" +
                 "name='" + name + '\'' +
                 ", weight=" + weight +
                 ", citizenship='" + citizenship + '\'' +

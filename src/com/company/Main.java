@@ -1,10 +1,10 @@
-import java.awt.*;
-import java.util.Random;
-import java.util.Scanner;
+package com.company;
+
+import com.company.Laptop;
 
 public class Main {
     public static void main(String[] args) {
-       /* Manjava man = new Manjava();
+       /* com.company.Manjava man = new com.company.Manjava();
         man.name = "Улук";
         man.age = 12;
         man.growth = 150;

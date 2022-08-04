@@ -1,3 +1,5 @@
+package com.company;
+
 public class Laptop {
     public int memory = 256;
     public String brant = "Apple";
@@ -8,7 +10,7 @@ public class Laptop {
 
     @Override
     public String toString() {
-        return "Laptop{" +
+        return "com.company.Laptop{" +
                 "memory=" + memory +
                 ", brant='" + brant + '\'' +
                 ", colour='" + colour + '\'' +

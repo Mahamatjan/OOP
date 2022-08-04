@@ -1,3 +1,5 @@
+package com.company;
+
 public class Manjava {
     String name;
     int age;
